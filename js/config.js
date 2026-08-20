@@ -213,21 +213,21 @@ window.SWEYA_CONFIG = {
     {
       name: "Araphat Khamis",
       role: "Procurement Officer",
-      image: "assets/arafat.jpg",
+      image: "assets/arafat.png",
       imageAlt: "Procurement Officer",
       bio: "Responsible for procurement at Sweya Pharmaceutical Limited, supporting the sourcing and supply of pharmaceutical and healthcare products."
     },
     {
       name: "Fredrick Paul",
       role: "Quality Assurance Manager",
-      image: "assets/fredrick.jpg",
+      image: "assets/fredrick.jpeg",
       imageAlt: "Quality Assurance Manager",
       bio: "Oversees quality assurance at Sweya Pharmaceutical Limited, supporting professional and reliable pharmaceutical supply."
     },
     {
       name: "Irene Joseph Kamanzi",
       role: "Quality Control Manager",
-      image: "assets/irene.jpg",
+      image: "assets/irene.png",
       imageAlt: "Quality Control Manager",
       bio: "Oversees quality control at Sweya Pharmaceutical Limited, supporting consistent and dependable product quality."
     }
