@@ -2,9 +2,7 @@
 
 window.SWEYA_CONFIG = {
 
-  // ---------------------------------------------------------------
-  // CORE BUSINESS INFO
-  // ---------------------------------------------------------------
+  
   business: {
     name: "Sweya Pharmaceutical Limited",
     tagline: "Advancing Better Healthcare Through Quality",
