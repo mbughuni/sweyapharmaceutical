@@ -95,7 +95,7 @@ window.SWEYA_CONFIG = {
     {
       icon: "monitor",
       name: "Medical Devices & Equipment",
-      image: "https://unsplash.com/photos/white-and-gray-digital-device-LwYlLzteMxo",
+      image: "assets/medeq.jpg",
       imageAlt: "Medical equipment and diagnostic devices",
       items: [
         "Blood pressure monitors",
