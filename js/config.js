@@ -7,7 +7,7 @@ window.SWEYA_CONFIG = {
   // ---------------------------------------------------------------
   business: {
     name: "Sweya Pharmaceutical Limited",
-    tagline: "Your Trusted Pharmaceutical & Healthcare Supply Partner",
+    tagline: "Advancing Better Healthcare Through Quality",
     description:
       "Pharmaceutical products, medical supplies and healthcare equipment for hospitals, clinics and healthcare institutions — supplied with professionalism, quality and reliability from Mwanza, Tanzania.",
     logo: "assets/logo.png",
@@ -220,7 +220,7 @@ window.SWEYA_CONFIG = {
     {
       name: "Fredrick Paul",
       role: "Quality Assurance Manager",
-      image: "assets/fredrick.jpeg",
+      image: "assets/fredrick.png",
       imageAlt: "Quality Assurance Manager",
       bio: "Oversees quality assurance at Sweya Pharmaceutical Limited, supporting professional and reliable pharmaceutical supply."
     },
