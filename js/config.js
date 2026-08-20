@@ -17,7 +17,7 @@ window.SWEYA_CONFIG = {
     email: "masharebabu@gmail.com",
     phones: [
       { display: "+255 652 059 546", href: "tel:+255652059546" },
-      { display: "+255 652 059 546", href: "tel:+255652059546" }
+      
     ],
     // First phone number is used for the WhatsApp quick-contact button.
     whatsapp: "https://wa.me/255657987215",
@@ -238,7 +238,7 @@ window.SWEYA_CONFIG = {
     {
       name: "Sweya Pharmaceutical Limited — Mwanza",
       address: "Mwanza City, Mwanza, Tanzania",
-      phone: { display: "0700 000 000", href: "tel:+255700000000" },
+      phone: { display: "255 6520 059 546", href: "tel:+2556520059546" },
       mapDirectionsUrl: ""
     }
   ],
